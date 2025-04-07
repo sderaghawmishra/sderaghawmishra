@@ -1,25 +1,17 @@
-### 👋 Hi there! I'm Raghaw Mishra
+## 👋 Hi there, I'm Raghaw Mishra
 
-I'm passionate about coding, computer programming, and exploring the exciting world of cybersecurity. I enjoy solving problems and building practical solutions with code.
+I'm passionate about programming, coding, and exploring cybersecurity. I enjoy solving problems, building practical solutions, and continuously learning new technologies.
 
----
+### 🚀 Technical Skills:
+- **Languages:** `C`, `C++`, `Python`, `Java`, `JavaScript`
+- **Web Technologies:** `HTML`, `CSS`, `JavaScript`, `Liquid (Shopify)`
+- **Interests:** Programming, Web Development, Cybersecurity
 
-### 🚀 My Skills:
-- **Languages:** C, C++, Python, Java, JavaScript
-- **Web Technologies:** HTML, CSS, JavaScript, Liquid (Shopify)
-- **Areas of Interest:** Programming, Web Development, Cybersecurity
-
----
-
-### 💻 What I'm into:
-- Developing efficient, clean, and optimized code.
-- Exploring security concepts and cybersecurity practices.
-
----
+### 💻 Currently Exploring:
+- Writing efficient and clean code.
+- Cybersecurity concepts and best practices.
 
 ### ⚡ Fun Fact:
-I love diving deep into programming challenges and cybersecurity puzzles!
+I love tackling challenging programming puzzles and exploring cybersecurity mysteries.
 
----
-
-⭐ **Happy coding!**
+⭐ **Happy Coding!**
